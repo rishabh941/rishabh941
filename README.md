@@ -1,16 +1,18 @@
+![logo](https://github.com/rishabh941/rishabh941/blob/main/Screenshot%202024-11-07%20161836.png)
 <h1 align="center">Hi 👋, I'm Rishabh raj</h1>
 <h3 align="center">A passionate MERN Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh941&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh941" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh941" alt="rishabh941" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain**
 
 - 📫 How to reach me **rishabh1232326@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1V8JNICkSjq7bfETTkZZ52AKbPu-bPQoa](https://drive.google.com/drive/u/0/folders/1V8JNICkSjq7bfETTkZZ52AKbPu-bPQoa)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh941&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh941" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh941" alt="rishabh941" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
