@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **rishabh1232326@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1V8JNICkSjq7bfETTkZZ52AKbPu-bPQoa](https://drive.google.com/drive/u/0/folders/1V8JNICkSjq7bfETTkZZ52AKbPu-bPQoa)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh941&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh941" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh941" alt="rishabh941" /></a> </p>
