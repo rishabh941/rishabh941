@@ -14,7 +14,7 @@
 ---
 
 ### 🧑‍💻 About Me  
-- 💼 **Software Engineer at [cora Labs](https://www.encora.com/)**  
+- 💼 **Software Engineer at [Encora Labs](https://www.encora.com/)**  
 - 💡 Passionate about building **scalable web applications** and **automation tools**  
 - ⚙️ Experienced with **MERN Stack**, **Spring Boot**, **FastAPI**, and **MongoDB**  
 - 🌱 Currently learning **Blockchain Development**  
