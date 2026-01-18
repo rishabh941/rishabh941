@@ -81,10 +81,7 @@ Dynamic rule evaluation system using **React & Node.js** for flexible business l
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&width=435&lines=Code.+Build.+Automate.+Repeat.;Clean+%26+Scalable+Engineering.;Learning+Never+Stops." />
-</p>
+</p> -->
 
-<p align="center">
-✨ Crafted with passion by <b>Rishabh Raj</b> ✨
-</p>
