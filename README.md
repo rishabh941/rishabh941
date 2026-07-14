@@ -1,4 +1,6 @@
-![Banner](https://github.com/rishabh941/rishabh941/blob/main/Screenshot%202024-11-07%20161836.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishabh941/rishabh941/main/banner.png" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Rishabh Raj</h1>
 
